@@ -1,0 +1,40 @@
+les listes du chainne youtube :
+EvoluNOOb#programmation java#
+
+projet E-commerce ampoeter des produits dans la chainne est vente a le maroc
+
+
+Les Exercices n'est pas complate:
+### 🧑‍🏫 **Exercice 8 : Remplir un tableau à partir de l'utilisateur**
+**Objectif** : Remplir un tableau avec des valeurs saisies par l'utilisateur.
+
+1. Demande à l'utilisateur de saisir 5 entiers pour remplir un tableau.
+2. Crée une méthode `remplirTableau()` qui prend la taille du tableau et le remplit avec des entrées utilisateur.
+3. Affiche ensuite le tableau rempli.
+
+---
+
+### 🧑‍🏫 **Exercice 9 : Tri d'un tableau**
+**Objectif** : Trier un tableau dans l'ordre croissant.
+
+1. Crée un tableau d'entiers avec des valeurs aléatoires.
+2. Implémente un algorithme de tri simple (comme le tri à bulles ou le tri par sélection).
+3. Affiche le tableau avant et après le tri.
+
+---
+
+### 🧑‍🏫 **Exercice 10 : Comparer deux tableaux**
+**Objectif** : Comparer deux tableaux et vérifier s'ils sont égaux.
+
+1. Crée deux tableaux d'entiers avec les mêmes valeurs (ou légèrement différentes).
+2. Crée une méthode `comparerTableaux()` qui prend deux tableaux en paramètre et renvoie `true` si les tableaux sont égaux, sinon `false`.
+3. Affiche le résultat de la comparaison.
+
+---
+
+### 📈 Bonus : Challenge avancé
+**Objectif** : Créer un programme qui génère un tableau de 1000 entiers aléatoires entre 0 et 1000, puis calcule combien d'éléments sont supérieurs à 500.
+
+---
+
+### 📚 Si tu veux des corrections ou de l'aide sur un exercice en particulier, n’hésite pas à me le demander !

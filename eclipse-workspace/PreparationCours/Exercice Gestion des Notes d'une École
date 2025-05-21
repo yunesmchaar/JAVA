@@ -1,0 +1,61 @@
+Bien sûr ! Voici un **exercice** que tu peux utiliser pour t'entraîner :
+
+---
+
+## 📝 Exercice : Gestion des Notes d'une École
+
+**Sujet :**  
+On veut développer un programme en Java pour gérer les notes des élèves dans une école.
+
+### 1. Les exigences :
+- Chaque **Élève** a un :
+  - Nom
+  - Prénom
+  - Numéro d'inscription
+  - Liste des notes (plusieurs matières)
+  
+- Le programme doit :
+  1. Permettre **d'ajouter un nouvel élève** et de saisir ses notes.
+  2. **Calculer et afficher** la moyenne de chaque élève.
+  3. **Afficher les informations** d'un élève : nom, prénom, numéro, notes, et moyenne.
+  4. Permettre de **gérer plusieurs élèves** (au moins 5 élèves).
+
+### 2. Contraintes :
+- Utiliser des **classes** et **objets**.
+- Utiliser une **ArrayList** ou un **tableau** pour stocker les élèves.
+- Les notes sont sur **20**.
+- Vérifier que les notes sont **entre 0 et 20** (validation).
+
+### 3. Bonus (optionnel) :
+- Ajouter une fonction pour trouver **l'élève avec la meilleure moyenne**.
+- Ajouter une fonction pour afficher **tous les élèves ayant une moyenne supérieure à 10**.
+
+---
+
+## 💡 Exemple d'affichage attendu :
+
+```
+1. Ajouter un nouvel élève
+2. Afficher les informations d'un élève
+3. Afficher l'élève avec la meilleure moyenne
+4. Afficher tous les élèves admis (moyenne >= 10)
+5. Quitter
+Choisissez une option : 1
+
+Entrez le nom : Karim
+Entrez le prénom : Bouzid
+Entrez le numéro d'inscription : 12345
+Combien de matières ? 3
+Entrez la note pour matière 1 : 15
+Entrez la note pour matière 2 : 12
+Entrez la note pour matière 3 : 14
+
+Élève ajouté avec succès !
+
+...
+```
+
+---
+
+Veux-tu que je te prépare aussi une **solution de base** pour te guider un peu dans la création de la classe `Eleve` et du programme principal ? 📚  
+(je peux te donner un squelette simple si tu veux démarrer plus vite !)
